@@ -579,6 +579,7 @@ Sino Felicity Zwane
 - [Chyunjet] (https://github.com/Jetyun)
 - [Dileep K] (https://github.com/dileepk706)
 - [amundae] (https://github.com/amundae)
+- [Arshad Akhtar](https://github.com/arshadakhtar25)
 - [Anish Patel] (https://github.com/codeanis)
 - [Debamoy Datta] (https://github.com/Debamoy)
 - [Abhi Bhullar](https://github.com/userabhibhullar)
